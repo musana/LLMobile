@@ -26,7 +26,7 @@ Key features of the tool include:
 - CI/CD Integration: It can be easily integrated into the CI/CD pipeline, ensuring that mobile app security is continuously tested throughout the development lifecycle. This enables security to become part of the development process, rather than a reactive measure.
 
 To Do
-- IoS Support
+- iOS Support
 - Notification system
 - Local LLM model support
 
