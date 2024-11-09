@@ -9,10 +9,10 @@
 <hr />
 
 <p align="center">
-  <a href="#introduction-the-importance-of-mobile-application-security">Why it's important?</a> •
+  <a href="#introduction-the-importance-of-mobile-application-security">Why Mobile Security is important?</a> •
   <a href="#overview-of-the-tool-what-does-it-do">What's LLMobile</a> •
   <a href="#flow-chart-of-llmobile">Flow Chart of LLMobile</a> •
-  <a href="#screenshots">Screenshots</a> •
+  <a href="#screenshots">Screenshots</a>
 </p>
 
 
@@ -141,8 +141,3 @@ By incorporating this tool into their development workflows, businesses can buil
 <img src="screenshots/scans.png" />
 
 
-This tool is a web-based mobile application security scanner that leverages Large Language Models (LLMs) to provide advanced, context-aware security analysis. It scans various components of mobile app codebases, including source code, manifest files, and configuration settings, to identify vulnerabilities and security flaws. Key features include comprehensive source code scanning, detection of hardcoded secrets and sensitive information, and detailed reporting with actionable remediation steps. The integration of LLM technology allows the tool to understand the intent and context behind code, providing a deeper, more accurate analysis compared to traditional static code analysis tools. Additionally, it offers seamless integration with CI/CD pipelines, enabling continuous, automated security testing throughout the development lifecycle to ensure apps are secure by design and before they reach production.
-
-## What Sets It Apart from Other Tools
-
-What distinguishes this tool from traditional security scanners is its use of LLMs, which enable a deeper, more intelligent understanding of the codebase, reducing false positives and highlighting actual vulnerabilities. Unlike rule-based scanners that rely on predefined signatures, the LLM-powered approach enables the tool to detect subtle, context-dependent vulnerabilities that are difficult to identify with conventional methods. After scanning, each finding is re-evaluated with the LLM, which further filters out false positives and draws attention to genuine security risks, ensuring a focused and accurate assessment of the codebase.Furthermore, its integration into CI/CD pipelines automates security checks as part of the development workflow, ensuring that vulnerabilities are caught early in the development process and reducing the cost and time required to fix them.
