@@ -42,12 +42,6 @@ Key features of the tool include:
 - LLM-based Analysis: The tool uses the power of Large Language Models to understand code semantics and detect subtle security vulnerabilities that might not be evident in traditional static analysis.
 - CI/CD Integration: It can be easily integrated into the CI/CD pipeline, ensuring that mobile app security is continuously tested throughout the development lifecycle. This enables security to become part of the development process, rather than a reactive measure.
 
-To Do
-- iOS Support
-- Notification system
-- Local LLM model support
-
-
 ## Why This Tool is Different from Traditional Scanners
 Traditional mobile security scanners primarily focus on static code analysis, looking for known patterns or signatures of vulnerabilities. While effective, these tools can miss vulnerabilities that are context-dependent, deeply embedded within business logic, or not easily identifiable by rule-based systems. They also often require manual intervention for complex issues and lack the flexibility to adapt to modern coding practices.
 
@@ -140,5 +134,13 @@ By incorporating this tool into their development workflows, businesses can buil
 <img src="screenshots/sc_scan.png" />
 
 <img src="screenshots/scans.png" />
+
+
+---
+
+To Do
+- Supporting iOS
+- Notification system
+- Supporting local LLM models
 
 
