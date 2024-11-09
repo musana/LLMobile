@@ -123,6 +123,19 @@ This LLM-based mobile security vulnerability scanner represents the next step in
 ```
 
 
+## Screenshots
+
+<img src="screenshots/upload.png" />
+
+<img src="screenshots/manifest.png" />
+
+<img src="screenshots/secretscan.png" />
+
+<img src="screenshots/sc_scan.png" />
+
+<img src="screenshots/scans.png" />
+
+
 This tool is a web-based mobile application security scanner that leverages Large Language Models (LLMs) to provide advanced, context-aware security analysis. It scans various components of mobile app codebases, including source code, manifest files, and configuration settings, to identify vulnerabilities and security flaws. Key features include comprehensive source code scanning, detection of hardcoded secrets and sensitive information, and detailed reporting with actionable remediation steps. The integration of LLM technology allows the tool to understand the intent and context behind code, providing a deeper, more accurate analysis compared to traditional static code analysis tools. Additionally, it offers seamless integration with CI/CD pipelines, enabling continuous, automated security testing throughout the development lifecycle to ensure apps are secure by design and before they reach production.
 
 ## What Sets It Apart from Other Tools
