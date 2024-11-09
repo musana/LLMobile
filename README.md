@@ -8,6 +8,16 @@
 
 <hr />
 
+<p align="center">
+  <a href="#introduction-the-importance-of-mobile-application-security">Why it's important?</a> •
+  <a href="#overview-of-the-tool-what-does-it-do">What's LLMobile</a> •
+  <a href="#flow-chart-of-llmobile">Installation</a> •
+  <a href="#screenshots">Usage</a> •
+  <a href="#running-fuzzuli">Running fuzzuli</a> •
+  <a href="#tool-page">Tool Page</a>
+</p>
+
+
 ## Introduction: The Importance of Mobile Application Security
 
 In the era of digital transformation, mobile applications have become integral to the way businesses operate, engage with customers, and deliver services. Mobile apps handle vast amounts of sensitive information, such as user data, payment details, and authentication tokens. The increasing reliance on mobile devices for everyday activities has made them a prime target for cybercriminals.
