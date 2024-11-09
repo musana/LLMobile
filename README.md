@@ -71,9 +71,6 @@ By integrating this tool into a CI/CD pipeline, businesses can:
 
 By incorporating this tool into their development workflows, businesses can build security directly into their app development process, minimizing the chances of a breach while maintaining agile development practices.
 
-## Final words
-This LLM-based mobile security vulnerability scanner represents the next step in ensuring the integrity and security of mobile applications. By leveraging the power of advanced machine learning techniques, this tool not only detects traditional vulnerabilities but also identifies complex risks that would otherwise go unnoticed. Its integration with CI/CD pipelines ensures that security is maintained throughout the development lifecycle, providing businesses with a robust and scalable solution to mobile application security.
-
 
 
 ## Flow Chart of LLMobile
