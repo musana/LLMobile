@@ -11,10 +11,8 @@
 <p align="center">
   <a href="#introduction-the-importance-of-mobile-application-security">Why it's important?</a> •
   <a href="#overview-of-the-tool-what-does-it-do">What's LLMobile</a> •
-  <a href="#flow-chart-of-llmobile">Installation</a> •
-  <a href="#screenshots">Usage</a> •
-  <a href="#running-fuzzuli">Running fuzzuli</a> •
-  <a href="#tool-page">Tool Page</a>
+  <a href="#flow-chart-of-llmobile">Flow Chart of LLMobile</a> •
+  <a href="#screenshots">Screenshots</a> •
 </p>
 
 
