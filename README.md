@@ -59,10 +59,10 @@ One of the key features of this tool is its seamless integration with CI/CD pipe
 
 By integrating this tool into a CI/CD pipeline, businesses can:
 
-> Automate Security Scanning: Every code change that is pushed into the repository is automatically scanned for vulnerabilities, secrets, and other risks.
-> Shift Left in Security: The tool allows for a "shift-left" approach to security, where issues are detected early in the development process rather than after deployment. This reduces the time and cost of fixing issues later.
-> Continuous Monitoring: The CI/CD integration ensures that mobile apps are continuously monitored for security risks, even as new features and code updates are being added.
-> Faster and More Secure Releases: With automated security checks as part of the CI/CD process, developers can quickly identify and fix vulnerabilities, allowing for faster release cycles without sacrificing security.
+**Automate Security Scanning:** Every code change that is pushed into the repository is automatically scanned for vulnerabilities, secrets, and other risks.
+**Shift Left in Security:** The tool allows for a "shift-left" approach to security, where issues are detected early in the development process rather than after deployment. This reduces the time and cost of fixing issues later.
+**Continuous Monitoring:** The CI/CD integration ensures that mobile apps are continuously monitored for security risks, even as new features and code updates are being added.
+**Faster and More Secure Releases:** With automated security checks as part of the CI/CD process, developers can quickly identify and fix vulnerabilities, allowing for faster release cycles without sacrificing security.
 
 By incorporating this tool into their development workflows, businesses can build security directly into their app development process, minimizing the chances of a breach while maintaining agile development practices.
 
@@ -138,7 +138,7 @@ By incorporating this tool into their development workflows, businesses can buil
 
 ---
 
-To Do
+#### To Do
 - Supporting iOS
 - Notification system
 - Supporting local LLM models
